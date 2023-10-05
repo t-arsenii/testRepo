@@ -7,6 +7,6 @@ public class Main {
         name();
     }
     public static void name() {
-        System.out.println("Hello Arsenii!🐵");
+        System.out.println("Hello Arsenii!🙃");
     }
 }
