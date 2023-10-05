@@ -8,5 +8,6 @@ public class Main {
     }
     public static void name() {
         System.out.println("Hello Arsenii!🐵+1");
+        System.out.println("Hello Arsenii!🙃");
     }
 }
