@@ -6,7 +6,7 @@ public class Main {
         }
         name();
     }
-    public static void name(){
-        System.out.println("Hello Arsenii!");
+    public static void name() {
+        System.out.println("Hello Arsenii!🐵");
     }
 }
